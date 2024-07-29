@@ -3,7 +3,7 @@
 # Declare variables to be passed into your templates.
 # Overrides the image tag whose default is the chart appVersion.
 image:
-  repository: chatwoot/chatwoot
+  repository: samehmust/taeq
   tag: v3.11.0
   pullPolicy: IfNotPresent
 
